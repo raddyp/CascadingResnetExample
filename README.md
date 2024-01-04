@@ -49,6 +49,9 @@ https://github.com/christianversloot/machine-learning-articles/blob/main/how-to-
 2. resnet_cascading.py - implementation of the cascading resnet model
 
    
-
+Thanks to
+1. https://medium.com/analytics-vidhya/understanding-and-implementation-of-residual-networks-resnets-b80f9a507b9c
+2. https://cv-tricks.com/keras/understand-implement-resnets/
+3. https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec
 
    
